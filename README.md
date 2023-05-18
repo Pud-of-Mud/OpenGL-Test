@@ -1,5 +1,9 @@
 # repl-freeglut-cpp
 c++ repl.it demo for freeglut OpenGL
+
+## Warning!
+This project is in a heavily alpha state and most likly never leave it.
+Use this with caution.
 ```
 freeglut: http://freeglut.sourceforge.net/
 REPL:   https://repl.it/@qcm/repl-freeglut-cpp/
